@@ -1,0 +1,19 @@
+{
+  "faqs": [
+    {
+      "id": 1,
+      "title": "Como funciona?",
+      "description": "É muito simples!. Em nossa página você pode ver as pessoas que se cadastraram, junto com suas informações. Se você quiser entrar em contato com alguém, basta fazê-lo no endereço do cartão"
+    },
+    {
+      "id": 2,
+      "title": "Quem pode se registrar?",
+      "description": "Qualquer pessoa com mais de 18 anos pode se registrar como usuário"
+    },
+    {
+      "id": 3,
+      "title": "Tem custo?",
+      "description": "Nenhum!. O uso de nossa rede é totalmente gratuito"
+    }
+  ]
+}
